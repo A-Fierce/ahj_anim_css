@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/201crpy0adbb96yd?svg=true)](https://ci.appveyor.com/project/A-Fierce/ahj-anim-css)
